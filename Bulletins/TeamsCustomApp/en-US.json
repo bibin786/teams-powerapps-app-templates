@@ -1,6 +1,6 @@
 {
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.7/MicrosoftTeams.Localization.schema.json",
-  "name.short": "Bulletins",
+  "name.short": "KBSBulletins",
   "name.full": "Bulletins Power App",
   "description.short": "Read all company communication posts in a central place",
   "description.full": "Be in the know of all company communications, broadcasts, and announcements in an easy to consume experience in Microsoft Teams. Customize post categories or fit your needs and bookmark a post to revisit it later. View company wide important FAQ and links to get your answers quickly. App can be easily extended with Microsoft Power Platform to meet your org's need.",
